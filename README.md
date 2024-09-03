@@ -1,4 +1,4 @@
-# parrot-count
+# Parrot-count
 Project Description:
 
 This project, inspired by the cartoon "38 Parrots," lets you measure things using the sizes of cartoon characters. The user enters the name of an item and its length in meters, and the program gives the equivalent in parrots, boas, and other characters. 
